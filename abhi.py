@@ -11,7 +11,7 @@ def is_prime(num):
     return True  # No factors found, it is prime
 
 # Example usage:
-test_num = 29
+test_num = 25
 if is_prime(test_num):
     print(f"{test_num} is a prime number")
 else:
