@@ -16,3 +16,7 @@ if is_prime(test_num):
     print(f"{test_num} is a prime number")
 else:
     print(f"{test_num} is not a prime number")
+abhi
+eswar
+    abhi
+    eswar
